@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045225303711",
+    "project_id": "pryka-labs",
+    "storage_bucket": "pryka-labs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045225303711:android:57023f84e50f0d0094bcaa",
+        "android_client_info": {
+          "package_name": "com.example.pryka_labs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPrpw6aY1daQoeNB0zhlDKxdfIoCahoSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
